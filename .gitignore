@@ -21,6 +21,9 @@ recordings/
 # Screenshots (user-generated)
 screenshots/
 
+# Personal developer notes
+PERSONAL_NOTES.md
+
 # OS files
 .DS_Store
 Thumbs.db
